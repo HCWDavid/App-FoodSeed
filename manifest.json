@@ -1,9 +1,1 @@
-{
-	"version":"usda_2025-12-18_full_off-normalized",
-	"full_seed_url":"https://github.com/HCWDavid/App-FoodSeed/releases/download/seed-usda-2025-12-18/usda_seed_full.bin",
-	"full_seed_sha256":"ba5e2c5f4ece53ae6d9343f79286cef5f786656eac0a481b76bc562fe3eca4c7",
-	"full_seed_bytes":58192044,
-	"aliases_url":"https://github.com/HCWDavid/App-FoodSeed/releases/download/seed-usda-2025-12-18/brand_aliases.bin",
-	"aliases_sha256":"999308cb7bfe03c2746bea30ad54896e2df7ba1b02a4076b2d58a655ae1209de",
-	"aliases_bytes":4661
-}
+{"version":"usda_2025-12-18_full_off-normalized","full_seed_url":"https://github.com/HCWDavid/App-FoodSeed/releases/download/seed-usda-2025-12-18/usda_seed_full.bin","full_seed_sha256":"ba5e2c5f4ece53ae6d9343f79286cef5f786656eac0a481b76bc562fe3eca4c7","full_seed_bytes":58192044,"aliases_url":"https://github.com/HCWDavid/App-FoodSeed/releases/download/seed-usda-2025-12-18/brand_aliases.bin","aliases_sha256":"999308cb7bfe03c2746bea30ad54896e2df7ba1b02a4076b2d58a655ae1209de","aliases_bytes":4661}
